@@ -15,7 +15,3 @@ Exploratory Data Analysis (EDA): Visualizing key variable distributions and corr
 Model Selection & Training: Implementing and comparing different Machine Learning algorithms (e.g., K-Nearest Neighbors, Random Forest, Gradient Boosting) to solve the [Classification/Regression/Clustering] problem.
 
 Model Evaluation: Assessing performance using relevant metrics (e.g., Accuracy, Precision, Recall, F1-Score, RMSE, AUC).
-
-🛠️ Technologies & Libraries:
-
-The analysis was conducted in Python 3 on the Google Colaboratory platform, utilizing the following libraries:CategoryTool/LibraryPurposePlatformGoogle ColaboratoryCloud-based Jupyter environment.Data HandlingpandasData structure and manipulation.Numerical ComputingnumpyAdvanced mathematical operations.Visualizationmatplotlib & seabornCreating static and statistical plots for EDA.Machine Learningscikit-learnImplementing ML models and utility functions.Deep LearningTensorFlow / Keras (if applicable)Building neural network architectures.
