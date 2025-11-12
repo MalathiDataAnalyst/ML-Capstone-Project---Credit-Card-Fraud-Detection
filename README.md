@@ -6,9 +6,14 @@ This repository hosts the documentation and external link for the Credit Card Fr
 
 🚀 Key Analysis & Goals:
 
-This project focused on the following key phases:Data Cleaning & Preprocessing: Handling missing data, encoding categorical variables, and scaling numerical features.
+This project focused on the following key phases:
+
+Data Cleaning & Preprocessing: Handling missing data, encoding categorical variables, and scaling numerical features.
+
 Exploratory Data Analysis (EDA): Visualizing key variable distributions and correlations to understand underlying data patterns.
+
 Model Selection & Training: Implementing and comparing different Machine Learning algorithms (e.g., K-Nearest Neighbors, Random Forest, Gradient Boosting) to solve the [Classification/Regression/Clustering] problem.
+
 Model Evaluation: Assessing performance using relevant metrics (e.g., Accuracy, Precision, Recall, F1-Score, RMSE, AUC).
 
 🛠️ Technologies & Libraries:
